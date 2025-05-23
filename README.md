@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:skrzeal@gmail.com"><img src="https://img.shields.io/badge/Email-skrzeal@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=9Bo_oucAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?style=for-the-badge&logo=googlescholar"></a>
-  <a href="https://www.linkedin.com/mmmisgar)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/mmmisgar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
